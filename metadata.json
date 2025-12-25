@@ -1,0 +1,5 @@
+{
+  "name": "ScriptBlox Studio",
+  "description": "A high-fidelity Luau scripting environment featuring a recursive explorer, properties pane, and advanced script editor.",
+  "requestFramePermissions": []
+}
